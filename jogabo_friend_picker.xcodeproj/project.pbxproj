@@ -14,6 +14,7 @@
 		4BF3811E1A56DB5700A4ECC7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BF3811D1A56DB5700A4ECC7 /* Images.xcassets */; };
 		4BF381211A56DB5700A4ECC7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BF3811F1A56DB5700A4ECC7 /* LaunchScreen.xib */; };
 		4BF3812D1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF3812C1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift */; };
+		4BF381371A56DC9700A4ECC7 /* JBCoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -38,6 +39,7 @@
 		4BF381261A56DB5700A4ECC7 /* jogabo_friend_pickerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = jogabo_friend_pickerTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4BF3812B1A56DB5700A4ECC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4BF3812C1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jogabo_friend_pickerTests.swift; sourceTree = "<group>"; };
+		4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBCoreDataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 			isa = PBXGroup;
 			children = (
 				4BF381131A56DB5700A4ECC7 /* AppDelegate.swift */,
+				4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */,
 				4BF381181A56DB5700A4ECC7 /* ViewController.swift */,
 				4BF3811A1A56DB5700A4ECC7 /* Main.storyboard */,
 				4BF3811D1A56DB5700A4ECC7 /* Images.xcassets */,
@@ -215,6 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BF381371A56DC9700A4ECC7 /* JBCoreDataManager.swift in Sources */,
 				4BF381191A56DB5700A4ECC7 /* ViewController.swift in Sources */,
 				4BF381141A56DB5700A4ECC7 /* AppDelegate.swift in Sources */,
 				4BF381171A56DB5700A4ECC7 /* jogabo_friend_picker.xcdatamodeld in Sources */,
@@ -409,6 +413,7 @@
 				4BF381321A56DB5700A4ECC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4BF381331A56DB5700A4ECC7 /* Build configuration list for PBXNativeTarget "jogabo_friend_pickerTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +422,7 @@
 				4BF381351A56DB5700A4ECC7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
