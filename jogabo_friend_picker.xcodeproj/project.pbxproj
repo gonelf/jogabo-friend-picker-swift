@@ -15,6 +15,16 @@
 		4BF381211A56DB5700A4ECC7 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BF3811F1A56DB5700A4ECC7 /* LaunchScreen.xib */; };
 		4BF3812D1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF3812C1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift */; };
 		4BF381371A56DC9700A4ECC7 /* JBCoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */; };
+		4BF381471A56EBC000A4ECC7 /* JBContacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381401A56EBC000A4ECC7 /* JBContacts.swift */; };
+		4BF381481A56EBC000A4ECC7 /* JBFacebookFriends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381411A56EBC000A4ECC7 /* JBFacebookFriends.swift */; };
+		4BF381491A56EBC000A4ECC7 /* JBSugestedFriends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381421A56EBC000A4ECC7 /* JBSugestedFriends.swift */; };
+		4BF3814A1A56EBC000A4ECC7 /* _JBContacts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381441A56EBC000A4ECC7 /* _JBContacts.swift */; };
+		4BF3814B1A56EBC000A4ECC7 /* _JBFacebookFriends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381451A56EBC000A4ECC7 /* _JBFacebookFriends.swift */; };
+		4BF3814C1A56EBC000A4ECC7 /* _JBSugestedFriends.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381461A56EBC000A4ECC7 /* _JBSugestedFriends.swift */; };
+		4BF3814F1A56FAAB00A4ECC7 /* JBConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF3814E1A56FAAB00A4ECC7 /* JBConstants.swift */; };
+		4BF381511A57004600A4ECC7 /* UIColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381501A57004600A4ECC7 /* UIColorExtension.swift */; };
+		4BF381531A57055300A4ECC7 /* JBFindFriendsSectionHeader.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4BF381521A57055300A4ECC7 /* JBFindFriendsSectionHeader.xib */; };
+		4BF381551A57071200A4ECC7 /* JBFindFriendsSectionHeader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BF381541A57071200A4ECC7 /* JBFindFriendsSectionHeader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +50,16 @@
 		4BF3812B1A56DB5700A4ECC7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4BF3812C1A56DB5700A4ECC7 /* jogabo_friend_pickerTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = jogabo_friend_pickerTests.swift; sourceTree = "<group>"; };
 		4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBCoreDataManager.swift; sourceTree = "<group>"; };
+		4BF381401A56EBC000A4ECC7 /* JBContacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBContacts.swift; sourceTree = "<group>"; };
+		4BF381411A56EBC000A4ECC7 /* JBFacebookFriends.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBFacebookFriends.swift; sourceTree = "<group>"; };
+		4BF381421A56EBC000A4ECC7 /* JBSugestedFriends.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBSugestedFriends.swift; sourceTree = "<group>"; };
+		4BF381441A56EBC000A4ECC7 /* _JBContacts.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _JBContacts.swift; sourceTree = "<group>"; };
+		4BF381451A56EBC000A4ECC7 /* _JBFacebookFriends.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _JBFacebookFriends.swift; sourceTree = "<group>"; };
+		4BF381461A56EBC000A4ECC7 /* _JBSugestedFriends.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _JBSugestedFriends.swift; sourceTree = "<group>"; };
+		4BF3814E1A56FAAB00A4ECC7 /* JBConstants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBConstants.swift; sourceTree = "<group>"; };
+		4BF381501A57004600A4ECC7 /* UIColorExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIColorExtension.swift; sourceTree = "<group>"; };
+		4BF381521A57055300A4ECC7 /* JBFindFriendsSectionHeader.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JBFindFriendsSectionHeader.xib; sourceTree = "<group>"; };
+		4BF381541A57071200A4ECC7 /* JBFindFriendsSectionHeader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JBFindFriendsSectionHeader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,13 +101,17 @@
 		4BF381101A56DB5700A4ECC7 /* jogabo_friend_picker */ = {
 			isa = PBXGroup;
 			children = (
+				4BF3814E1A56FAAB00A4ECC7 /* JBConstants.swift */,
 				4BF381131A56DB5700A4ECC7 /* AppDelegate.swift */,
-				4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */,
+				4BF381521A57055300A4ECC7 /* JBFindFriendsSectionHeader.xib */,
+				4BF381541A57071200A4ECC7 /* JBFindFriendsSectionHeader.swift */,
 				4BF381181A56DB5700A4ECC7 /* ViewController.swift */,
 				4BF3811A1A56DB5700A4ECC7 /* Main.storyboard */,
 				4BF3811D1A56DB5700A4ECC7 /* Images.xcassets */,
 				4BF3811F1A56DB5700A4ECC7 /* LaunchScreen.xib */,
+				4BF381361A56DC9700A4ECC7 /* JBCoreDataManager.swift */,
 				4BF381151A56DB5700A4ECC7 /* jogabo_friend_picker.xcdatamodeld */,
+				4BF3814D1A56EC0900A4ECC7 /* CoreDataEntities */,
 				4BF381111A56DB5700A4ECC7 /* Supporting Files */,
 			);
 			path = jogabo_friend_picker;
@@ -96,6 +120,7 @@
 		4BF381111A56DB5700A4ECC7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4BF381501A57004600A4ECC7 /* UIColorExtension.swift */,
 				4BF381121A56DB5700A4ECC7 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -116,6 +141,27 @@
 				4BF3812B1A56DB5700A4ECC7 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		4BF381431A56EBC000A4ECC7 /* Machine */ = {
+			isa = PBXGroup;
+			children = (
+				4BF381441A56EBC000A4ECC7 /* _JBContacts.swift */,
+				4BF381451A56EBC000A4ECC7 /* _JBFacebookFriends.swift */,
+				4BF381461A56EBC000A4ECC7 /* _JBSugestedFriends.swift */,
+			);
+			path = Machine;
+			sourceTree = "<group>";
+		};
+		4BF3814D1A56EC0900A4ECC7 /* CoreDataEntities */ = {
+			isa = PBXGroup;
+			children = (
+				4BF381401A56EBC000A4ECC7 /* JBContacts.swift */,
+				4BF381411A56EBC000A4ECC7 /* JBFacebookFriends.swift */,
+				4BF381421A56EBC000A4ECC7 /* JBSugestedFriends.swift */,
+				4BF381431A56EBC000A4ECC7 /* Machine */,
+			);
+			name = CoreDataEntities;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -199,6 +245,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				4BF3811C1A56DB5700A4ECC7 /* Main.storyboard in Resources */,
+				4BF381531A57055300A4ECC7 /* JBFindFriendsSectionHeader.xib in Resources */,
 				4BF381211A56DB5700A4ECC7 /* LaunchScreen.xib in Resources */,
 				4BF3811E1A56DB5700A4ECC7 /* Images.xcassets in Resources */,
 			);
@@ -218,10 +265,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4BF3814B1A56EBC000A4ECC7 /* _JBFacebookFriends.swift in Sources */,
 				4BF381371A56DC9700A4ECC7 /* JBCoreDataManager.swift in Sources */,
+				4BF3814F1A56FAAB00A4ECC7 /* JBConstants.swift in Sources */,
+				4BF381551A57071200A4ECC7 /* JBFindFriendsSectionHeader.swift in Sources */,
+				4BF381481A56EBC000A4ECC7 /* JBFacebookFriends.swift in Sources */,
+				4BF381491A56EBC000A4ECC7 /* JBSugestedFriends.swift in Sources */,
 				4BF381191A56DB5700A4ECC7 /* ViewController.swift in Sources */,
+				4BF3814C1A56EBC000A4ECC7 /* _JBSugestedFriends.swift in Sources */,
 				4BF381141A56DB5700A4ECC7 /* AppDelegate.swift in Sources */,
 				4BF381171A56DB5700A4ECC7 /* jogabo_friend_picker.xcdatamodeld in Sources */,
+				4BF3814A1A56EBC000A4ECC7 /* _JBContacts.swift in Sources */,
+				4BF381471A56EBC000A4ECC7 /* JBContacts.swift in Sources */,
+				4BF381511A57004600A4ECC7 /* UIColorExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
